@@ -4,15 +4,13 @@
 
 😯 Career
 - Former Android QQ Engineer @Tencent
-- Former Keep App Engineer @Keep
+- Former Head of Keep App Engineer @Keep
 - Head of Business @Keep
 
 💻 My Interests
 - Quant Developer
 - Web3 Builder & BTC Holder
-- C++, Python, Java, Swift
-- iOS Application Developer
-- Android Application Developer
+- iOS/Android Application Developer
 
 
 <!---
