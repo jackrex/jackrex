@@ -1,5 +1,5 @@
 ## 😈 Hello
-[![](https://img.shields.io/badge/--%23000000?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/00xjack)
+[![](https://img.shields.io/badge/--%23000000?style=flat&logo=x&logoColor=ffffff)](https://twitter.com/00xjack)
 [![](https://img.shields.io/badge/--%23000000?style=flat&logo=github&logoColor=ffffff)](https://github.com/jackrex)
 - 👋 Hi, I’m @jackrex
 - 📫 jackrex.st@gmail.com
