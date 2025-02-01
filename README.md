@@ -14,7 +14,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Jackrex's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=jackrex&count_private=true&show_icons=true)
+![Jackrex's github stats](https://github-readme-stats-git-responsetype-dawei-mas-projects.vercel.app/api?username=jackrex&count_private=true&show_icons=true&theme=transparent)
 
 <!---
 jackrex/jackrex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
