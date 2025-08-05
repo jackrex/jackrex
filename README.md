@@ -5,12 +5,15 @@
 - 📫 jackrex.st@gmail.com
 
 😯 Career
-- Former Android QQ Engineer @Tencent
+- Ex Android QQ Engineer @Tencent
 
 💻 My Interests
+- Investor
+- Growth Hacker
+- Indiehacker
+- Web3 Builder
 - Quant Developer
-- Web3 Builder & BTC Holder
-- iOS/Android Application Developer
+
 
 ## [𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸](https://www.bmpi.dev/dev/tech-stack-of-side-project/)
 
