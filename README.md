@@ -6,6 +6,9 @@
 
 😯 Career
 - Ex Android QQ Engineer @Tencent
+- Ex Keep Mobile Tech Lead
+- Ex Keep Growth Lead
+- AI Apps Founder
 
 💻 My Interests
 - Investor
